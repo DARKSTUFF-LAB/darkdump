@@ -10,7 +10,7 @@
 ## About Darkdump (Recent Notice - 12/27/22)
 Darkdump is a simple script written in Python3.11 in which it allows users to enter a search term (query) in the command line and darkdump will pull all the deep web sites relating to that query. Darkdump2.0 is here, enjoy!
 ## Installation
-1) ``git clone https://github.com/josh0xA/darkdump``<br/>
+1) ``git clone https://github.com/YAHYA950/darkdump.git``<br/>
 2) ``cd darkdump``<br/>
 3) ``python3 -m pip install -r requirements.txt``<br/>
 4) ``python3 darkdump.py --help``<br/>
@@ -33,9 +33,8 @@ Darkdump Proxy: ``python3 darkdump.py --query bitcoin -p``<br/>
     |____/|__,|_| |_,_|___|___|_|_|_|  _|
                                     |_|
 
-        Developed By: Josh Schiavone
-        https://github.com/josh0xA
-            joshschiavone.com
+        Developed By: D3VIL
+        https://github.com/YAHYA950/darkdump.git
               Version 2.0
 
 usage: darkdump.py [-h] [-v] [-q QUERY] [-a AMOUNT] [-p]
@@ -60,4 +59,4 @@ The developer of this program, Josh Schiavone, is not resposible for misuse of t
 
 ## License 
 MIT License<br/>
-Copyright (c) Josh Schiavone
+Copyright (c) D3VIL
