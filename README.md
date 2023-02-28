@@ -51,7 +51,7 @@ options:
 ```
 ## Visual
 <p align="center">
-  <img src="https://github.com/josh0xA/darkdump/blob/main/imgs/dark dump.jpg?raw=true">
+  <img src="https://github.com/YAHYA950/darkdump/blob/main/imgs/dark dump.jpg?raw=true">
 </p>
 
 ## Ethical Notice
