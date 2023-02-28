@@ -1,6 +1,6 @@
 '''
 MIT License
-Copyright (c) 2023 Josh Schiavone
+Copyright (c) 2023 D3VIL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -26,7 +26,7 @@ SOFTWARE.
 import sys 
 sys.dont_write_bytecode = True
 
-__author__ = 'Josh Schiavone'
+__author__ = 'D3VIL'
 __version__ = '2.0'
 __license__ = 'MIT'
 
